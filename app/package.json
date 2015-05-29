@@ -1,11 +1,11 @@
 {
-  "name": "hogwarts",
+  "name": "strobe",
   "version": "0.0.1",
   "description": "A magical example of the power containers provide.",
-  "author": "Jeffrey Sica <jsica@med.umich.edu>",
+  "author": "Jeffrey Sica <jeef111x@gmail.com>",
     "repository": {
     "type": "git",
-    "url": "https://github.com/jeefy/hogwarts"
+    "url": "https://github.com/jeefy/strobe"
   },
   "README":"",
   "dependencies": {
